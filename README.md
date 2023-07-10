@@ -1,6 +1,6 @@
 # Univariate Linear Regression
 
-In this project, we create a simple linear regression model that predicts the salary from a person's experience (measured in years). The data that we work with is taken from Kaggle (https://www.kaggle.com/datasets/krishnaraj30/salary-prediction-data-simple-linear-regression).
+In this project, we create a simple linear regression model that predicts the salary from a person's experience (measured in years), using the gradiant descent algorithm. The data that we work with is taken from Kaggle (https://www.kaggle.com/datasets/krishnaraj30/salary-prediction-data-simple-linear-regression).
 
 
 ## Installation
